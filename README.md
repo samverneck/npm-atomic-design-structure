@@ -1,0 +1,1 @@
+# npm-atomic-design-structure
